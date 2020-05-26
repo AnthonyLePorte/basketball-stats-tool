@@ -1,2 +1,2 @@
 # basketball-stats-tool
-A menu that show stats of a basketball league.
+A menu that shows stats of a basketball league.
